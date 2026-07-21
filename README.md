@@ -33,7 +33,7 @@ Click on a question to view its answer. Click the same question again to collaps
 
 ```bash
 git clone https://github.com/its-harini24/faq-accordion.git
-cd faq-accordion
+cd faq-app
 npm install
 npm start
 ```
