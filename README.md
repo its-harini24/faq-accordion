@@ -38,8 +38,9 @@ npm install
 npm start
 ```
 ## Live Demo
-
-
+https://faq-accordion-umber-eight.vercel.app/
+## project repository
+https://github.com/its-harini24/faq-accordion
 ## Future Improvements
 
 - Add smooth animations
